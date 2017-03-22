@@ -1,4 +1,4 @@
-# Tictactoe
+# Tictactoe  SVG
 Not complete game!!
 
 ## Preview
